@@ -28,6 +28,8 @@ I'm passionate about software development and always eager to learn new technolo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulg-21&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+---
+
 ### 📫 Connect With Me
 
 <!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/murali-krishna-linked-in) -->
