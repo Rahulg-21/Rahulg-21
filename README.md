@@ -10,7 +10,7 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from *APJ Ab
 I'm passionate about software development and always eager to learn new technologies to build efficient and impactful solutions.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rahulg-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -22,15 +22,15 @@ I'm passionate about software development and always eager to learn new technolo
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulg-21&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 ### 📫 Connect With Me
 
 <!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/murali-krishna-linked-in)
  - 📧 [mail@gmail.com](mailto:mail@gmail.com) -->
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulg-21&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
