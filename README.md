@@ -30,7 +30,7 @@ I'm passionate about software development and always eager to learn new technolo
 
 ### 📫 Connect With Me
 
-<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/murali-krishna-linked-in)
- - 📧 [mail@gmail.com](mailto:mail@gmail.com) -->
+<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/murali-krishna-linked-in) -->
+ - 📧 [chn24mc021@ceconline.edu](mailto:chn24mc021@ceconline.edu) 
 
 ---
