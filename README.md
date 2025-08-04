@@ -18,7 +18,7 @@ I'm passionate about software development and always eager to learn new technolo
 ### 📚 Education
 
 - 🧑‍🎓 **MCA** — *APJ Abdul Kalam Technological University* (2024 – Pursuing)  
-- 🎓 **BCA** — *University of Kerala* (2020 – 2023)
+- 🎓 **BSC Computer Science** — *University of Mahatma Gandhi* (2020 – 2023)
 
 ---
 
