@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** from *APJ Abdul Kalam Technological University* and have completed my **Bachelor of Computer Applications (BCA)** from *University of Kerala*.  
+I'm currently pursuing my **Master of Computer Applications (MCA)** from *APJ Abdul Kalam Technological University* and have completed my **Bsc Computer science (BSC)** from *University of Mahatma Gandhi*.  
 I'm passionate about software development and always eager to learn new technologies to build efficient and impactful solutions.
 
 <p align="left">
